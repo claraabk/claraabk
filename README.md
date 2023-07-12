@@ -1,7 +1,8 @@
-### Hi there :hatching_chick: 
+### hi there :hatching_chick: 
 <p align="left" display="flex" flex-direction="row">
 <p>
-My name is Clara Kenderessy and I'm a third semester Computer Science undergraduate student. I'm currently working as Software Manager at @CITi UFPE. I'm very passionate about music and movies.
+  project management intern @neurotech | 5th semester computer science student
+Campo
 </p>
 
 <p align="center">
