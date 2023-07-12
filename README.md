@@ -2,7 +2,6 @@
 <p align="left" display="flex" flex-direction="row">
 <p>
   project management intern @neurotech | 5th semester computer science student
-Campo
 </p>
 
 <p align="center">
